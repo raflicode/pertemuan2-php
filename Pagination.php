@@ -3,7 +3,7 @@
 $total_data = 10;
 
 // Jumlah data per halaman
-$limit = 3;
+$limit = 5;
 
 // Ambil halaman sekarang
 $page = isset($_GET['page']) ? (int)$_GET['page'] : 1;
